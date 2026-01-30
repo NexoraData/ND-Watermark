@@ -9,7 +9,17 @@ CreateThread(function()
         SetTextCentre(true)
         SetTextOutline()
         SetTextEntry("STRING")
-        AddTextComponentString("~w~Velocity Drift Network | ~y~VelocityDrift.net")
+        AddTextComponentString("~w~Youre Watermark Text Here")
+            -- COLOR LIST!!!!
+            -- ~r~  | RED
+            -- ~b~  | BLUE
+            -- ~g~  | GREEN
+            -- ~y~  | YELLOW
+            -- ~c~  | GRAY
+            -- ~u~  | BLACK
+            -- ~W~  | WHITE
+            -- ~n~  | NEW LINE
+            -- ~b~  | BOLD TEXT
         DrawText(0.5, 0.02)
     end
 end)
